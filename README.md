@@ -28,3 +28,4 @@ The project will be created using motion graphics software (After Effects, Illus
 •	Week 3 (Design): Create all illustrations and visual assets.
 •	Week 4 (Animation): Animate the video and add text overlays.
 •	Week 5 (Review & Delivery): Add VoiceOver, music, finalize editing, and deliver final video
+https://drive.google.com/drive/u/2/folders/1yMsnZe4w2QzzM3zll1rhoumN9BGQ4plx
