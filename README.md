@@ -28,4 +28,9 @@ The project will be created using motion graphics software (After Effects, Illus
 •	Week 3 (Design): Create all illustrations and visual assets.
 •	Week 4 (Animation): Animate the video and add text overlays.
 •	Week 5 (Review & Delivery): Add VoiceOver, music, finalize editing, and deliver final video
+Idea & Script"Omaima, Mai"
+Storyboard "Omaima, Mai"
+Design "Omaima:illustration art , styling", Samar &Osama Ai and photos"
+Animation "Mai,Osama,Tarek", Voice Over Samar & Osama
+ Review & Delivery "all
 https://drive.google.com/drive/u/2/folders/1yMsnZe4w2QzzM3zll1rhoumN9BGQ4plx
