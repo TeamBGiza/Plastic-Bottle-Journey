@@ -10,11 +10,11 @@ The video will conclude with a positive call to action encouraging viewers to Re
 The project will be created using motion graphics software (After Effects, Illustrator, Photoshop) supported by a storyboard and bilingual (Arabic & English) VoiceOver script.
 # Project Objectives
 •	Raise awareness of the dangers of plastic pollution on the environment and human health.
-•	Simplify the message into a short, engaging video (~30 seconds).
+•	Simplify the message into a short, engaging video (40 seconds).
 •	Produce content optimized for social media platforms (Reels, TikTok, YouTube Shorts).
 •	Deliver a strong visual message: “Reduce – Reuse – Recycle.”
 # Project Scope
-•	Script Writing: Develop the VoiceOver script in Arabic and English.
+•	Script Writing: Develop the VoiceOver script in Arabic.
 •	Storyboard: Create a storyboard with clear scene breakdowns (already drafted).
 •	Design Assets: Illustrate characters, bottle, fish, and environment.
 •	Animation: Animate the visuals with VoiceOver and sound effects.
@@ -32,6 +32,6 @@ The project will be created using motion graphics software (After Effects, Illus
 • Design "Omaima:illustration art
 • styling",Omaima Ai and photos"
 • Animation "Mai"
-• Voice Over Tarek
+• Voice Over & Sound effects "Tarek"
 Review & Delivery "all
 # https://drive.google.com/drive/u/2/folders/1yMsnZe4w2QzzM3zll1rhoumN9BGQ4plx
