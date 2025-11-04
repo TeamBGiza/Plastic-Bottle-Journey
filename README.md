@@ -3,8 +3,6 @@ Awareness motion graphics video about the journey of a plastic bottle and its im
 # Team members
 • Omaima MohamedSobhy Mahmoud
 • Tarek Essam Mohamed Osman
-• Samar Khaled Abutaleb
-• osama mohamed sabry
 • Mai Mohamed Abdelaziz
 # Project Overview
 The Plastic Bottle Journey project aims to illustrate the life cycle of a plastic bottle—from its use and disposal, through waterways into the sea, its harmful effects on marine life, and eventually its impact on humans.
@@ -30,10 +28,10 @@ The project will be created using motion graphics software (After Effects, Illus
 •	Week 5 (Review & Delivery): Add VoiceOver, music, finalize editing, and deliver final video
 # Responsibilities
 • Idea & Script"Omaima, Mai"
-• Storyboard "Omaima, Mai"
+• Storyboard "Omaima"
 • Design "Omaima:illustration art
-• styling", Samar &Osama Ai and photos"
-• Animation "Mai,Osama,Tarek"
-• Voice Over Samar & Osama
+• styling",Omaima Ai and photos"
+• Animation "Mai"
+• Voice Over Tarek
 Review & Delivery "all
 # https://drive.google.com/drive/u/2/folders/1yMsnZe4w2QzzM3zll1rhoumN9BGQ4plx
