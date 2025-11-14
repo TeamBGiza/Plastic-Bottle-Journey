@@ -27,11 +27,11 @@ The project will be created using motion graphics software (Adobe Illustrator، 
 •	Week 4 (Animation): Animate the video and add text overlays.
 •	Week 5 (Review & Delivery): Add VoiceOver, music, finalize editing, and deliver final video
 # Responsibilities
-• Idea & Script"Omaima, Mai"
-• Storyboard "Omaima"
-• Design "Omaima:illustration art
-• styling",Omaima Ai and photos"
-• Animation "Mai"
-• Voice Over & Sound effects "Tarek"
-Review & Delivery "all
+•	Idea & Script"Omaima, Mai".
+•	Storyboard"Omaima ".
+•	Design & Ai "Omaima ".
+•	Styling & Art Direction "Omaima ".
+•	Animation "Mai" 
+•	Voice Over & Sound effects "Tarek".
+•	Review & Delivery " Omaima, Mai, Tarek”.
 # https://drive.google.com/drive/u/2/folders/1yMsnZe4w2QzzM3zll1rhoumN9BGQ4plx
