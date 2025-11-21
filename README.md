@@ -38,3 +38,5 @@ The project will be created using motion graphics software (Adobe Illustrator، 
 •	Review & Delivery " Omaima, Mai, Tarek”.
 • Presentation " Osama Mohamed Sabry "
 # https://drive.google.com/drive/u/2/folders/1yMsnZe4w2QzzM3zll1rhoumN9BGQ4plx
+#
+https://www.canva.com/design/DAG5Kj3n5IQ/5hS18N4_76urCoKDO9uNYw/edit?utm_content=DAG5Kj3n5IQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
