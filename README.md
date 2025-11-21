@@ -4,6 +4,8 @@ Awareness motion graphics video about the journey of a plastic bottle and its im
 • Omaima MohamedSobhy Mahmoud
 • Tarek Essam Mohamed Osman
 • Mai Mohamed Abdelaziz
+• Osama Mohamed Sabry
+
 # Project Overview
 The Plastic Bottle Journey project aims to illustrate the life cycle of a plastic bottle—from its use and disposal, through waterways into the sea, its harmful effects on marine life, and eventually its impact on humans.
 The video will conclude with a positive call to action encouraging viewers to Reduce, Reuse, and Recycle.
@@ -34,4 +36,5 @@ The project will be created using motion graphics software (Adobe Illustrator، 
 •	Animation "Mai" 
 •	Voice Over & Sound effects "Tarek".
 •	Review & Delivery " Omaima, Mai, Tarek”.
+• Presentation " Osama Mohamed Sabry "
 # https://drive.google.com/drive/u/2/folders/1yMsnZe4w2QzzM3zll1rhoumN9BGQ4plx
